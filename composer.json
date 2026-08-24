@@ -1,12 +1,12 @@
 {
-  "name": "liberusoftware/module-liberu-revenue-and-care-orchestration-api",
+  "name": "liberusoftware/liberu-revenue-and-care-orchestration-api",
   "version": "1.1.1",
   "type": "liberu-module",
   "description": "Liberu liberu-revenue-and-care-orchestration-api module.",
   "license": "MIT",
   "require": {
     "php": "^8.5",
-    "liberusoftware/module-liberu-revenue-and-care-orchestration": "^1.0",
+    "liberusoftware/liberu-revenue-and-care-orchestration": "^1.0",
     "illuminate/http": "^13.0",
     "illuminate/routing": "^13.0",
     "laravel/sanctum": "^4.0"
